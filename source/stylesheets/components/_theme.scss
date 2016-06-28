@@ -1,0 +1,74 @@
+body {
+  //font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  //background: #ECC561;
+  //font-size: 1em;
+}
+footer {
+  background-color: #222222;
+  border-color: #080808;
+  color:#fff;
+  padding-top:10px;
+}
+#main {
+  padding-bottom: 80px;
+}
+.logo img {
+  height: 18.75em;
+  margin-top: 6em;
+}
+
+h1 {
+  // color: rgba(0,0,0,0.5);
+  // font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  // font-size: 1.8em;
+  // font-weight: 400;
+  // margin: 0;
+}
+
+p {
+  line-height:1.6;
+}
+a {
+  cursor:pointer;
+}
+.gray {
+  color:#999;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.navbar-inverse .navbar-brand {
+  color:#009D8A;
+  opacity:0.7;
+}
+.navbar-inverse .navbar-brand:hover, 
+.navbar-inverse .navbar-brand:focus {
+  color:#009D8A;
+  opacity:1;
+}
+
+.welcome {
+  -webkit-animation-name: welcome;
+  -webkit-animation-duration: .9s;
+}
+
+@-webkit-keyframes welcome {
+  from {
+    -webkit-transform: scale(0);
+    opacity: 0;
+  }
+  50% {
+   -webkit-transform: scale(0);
+   opacity: 0;
+  }
+  82.5% {
+    -webkit-transform: scale(1.03);
+    -webkit-animation-timing-function: ease-out;
+    opacity: 1;
+  }
+  to {
+    -webkit-transform: scale(1);
+  }
+}
+

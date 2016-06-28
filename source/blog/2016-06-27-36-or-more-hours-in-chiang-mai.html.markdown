@@ -1,6 +1,6 @@
 ---
 title: 36...Or More Hours in Chiang Mai
-date: 2016-06-28
+date: 2016-06-27
 tags: travel, thailand
 ---
 
@@ -18,18 +18,21 @@ Chabaa
 D Milk
 iberry
 Salad Concept
+Sangdee Art Gallery & Cafe
+Nimman Soi 1
+Mont Nom Sod (evenings only)
 
 #### Afternoon
-Reservoir
+Bay's Cafe/Food 4 Thought
 Waterfall
 Doi Suthep
 Queen's Gardens
-Bay's Cafe/Food 4 Thought
+CMU Reservoir
 
 #### Dinner & Dessert
-Mont Nom Sod
 University Market
 Muu Ga Ta
+Milk Zone
 
 ## Kad Luang Market and River Road
 
@@ -41,6 +44,7 @@ Flower Market
 
 #### Lunch & Treats
 Wawee on the River
+Khao Soi Lam Duan
 Bake n Bite
 Art galleries
 Vieng Joom Tea House
@@ -114,3 +118,4 @@ Night market
 Elephants
 Umbrella factory
 Doi Suthep
+Kantoke Cultural Dinner
