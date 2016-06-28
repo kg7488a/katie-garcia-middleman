@@ -13,6 +13,7 @@ gem "middleman", "~> 4.1"
 gem 'middleman-livereload'
 gem 'middleman-compass', '>= 4.0.0'
 gem "middleman-blog"
+gem "middleman-deploy", "~> 2.0.0.pre.alpha"
 
 gem 'redcarpet', '~> 3.3', '>= 3.3.3'
 gem 'nokogiri', '~> 1.6', '>= 1.6.8'
